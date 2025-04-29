@@ -1,6 +1,6 @@
 # Online identification of skidding modes with interactive multiple model estimation
 
-![HuskyIMM-2](https://github.com/user-attachments/assets/44b5b475-8fdc-4ef3-8efc-e06ff7ef56cc)
+<img src="https://github.com/user-attachments/assets/44b5b475-8fdc-4ef3-8efc-e06ff7ef56cc" width="600" height="400"/>
 
 ### Pre-print : [ArXiv Link](https://arxiv.org/abs/2409.20554) 
 
