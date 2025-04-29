@@ -1,11 +1,10 @@
 # Online identification of skidding modes with interactive multiple model estimation
 
-### Pre-print : https://arxiv.org/abs/2409.20554 
+![HuskyIMM-2](https://github.com/user-attachments/assets/44b5b475-8fdc-4ef3-8efc-e06ff7ef56cc)
 
-### YouTube video illustration
-<iframe width="640" height="320" src="https://www.youtube.com/embed/vrpJjbzV0mk?si=m8W78UIgzfvQZMJK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### Pre-print : [ArXiv Link](https://arxiv.org/abs/2409.20554) 
+
+### YouTube video illustration : [YouTube Link](https://www.youtube.com/results?search_query=online+identification+of+skidding+modes)
 
 ### Graphical Overview
-
-
-
+![GraphicalOverview](https://github.com/user-attachments/assets/fb2dfa35-9513-4d1e-8c25-2a090a0772ba)
