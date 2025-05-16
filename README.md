@@ -4,6 +4,31 @@ Skid-steered wheel mobile robots (SSWMRs) operate in a variety of outdoor enviro
 
 ![ImmDemoImg](https://github.com/user-attachments/assets/bb4f8898-ef64-46d5-9915-7ceeb6d76664)
 
+## Code Overview
+
+### Model Fitting
+GPSFit script provides an oveview for fitting the motion models in the model structure used in the IMM. The code provides an overview of utilizing different GPS paths (positions) and converting them to velocities (trajectories) to adopt the model structure.
+
+The kinematic model of the robot is given by:
+
+$$
+\begin{aligned}
+\dot{X} &= k_i \cdot \cos(\theta) \cdot u_1, \\
+\dot{Y} &= k_i \cdot \sin(\theta) \cdot u_1, \\
+\dot{\theta} &= m_i \cdot u_2
+\end{aligned}
+$$
+
+Where the control inputs are:
+
+$$
+\begin{aligned}
+u_1 &= \frac{r(\dot{\phi}_L + \dot{\phi}_R)}{2}, \\
+u_2 &= \frac{r(-\dot{\phi}_L + \dot{\phi}_R)}{b}
+\end{aligned}
+$$
+
+GPS trajectories utilized (clothoid curves)
 
 
 
