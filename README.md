@@ -31,7 +31,7 @@ $$
 GPS trajectories utilized (clothoid curves)
 
 <p float="left">
-  <img src="[path_to_image1.png](https://github.com/ameyarsalvi/2025_ICRA_HuskyIMM/blob/main/GPSPose.jpg" width="45%" />
+  <img src="https://github.com/ameyarsalvi/2025_ICRA_HuskyIMM/blob/main/GPSPose.jpg" width="45%" />
   <img src="https://github.com/ameyarsalvi/2025_ICRA_HuskyIMM/blob/main/GPSVel.jpg" width="45%" />
 </p>
 
