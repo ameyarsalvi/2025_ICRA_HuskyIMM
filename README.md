@@ -35,7 +35,16 @@ GPS trajectories utilized (clothoid curves)
   <img src="https://github.com/ameyarsalvi/2025_ICRA_HuskyIMM/blob/main/GPSVel.jpg" width="45%" />
 </p>
 
+### IMM
 
+The interactive multiple model estimation based mode identification utilzes the model structure provided above with the key concepts of IMM (Details in the paper).
+The EKF_Switch.mlx is the key script that employs the IMM with the models. The methods ekf_predict and ekf_update are supporting methods requried to run the main script. All the necessary test data for recreating and visualizing the results is provided in the repo.
+Following are the switich results
+
+<p float="left">
+  <img src="https://github.com/ameyarsalvi/2025_ICRA_HuskyIMM/blob/main/States.jpg" width="45%" />
+  <img src="https://github.com/ameyarsalvi/2025_ICRA_HuskyIMM/blob/main/Weights.jpg" width="45%" />
+</p>
 
 ### YouTube video illustration : [YouTube Link](https://www.youtube.com/results?search_query=online+identification+of+skidding+modes)
 
