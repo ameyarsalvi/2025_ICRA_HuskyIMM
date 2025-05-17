@@ -51,7 +51,7 @@ Following are the switich results
 
 <p float="left">
   <img src="https://github.com/ameyarsalvi/2025_ICRA_HuskyIMM/blob/main/States.jpg" width="45%" />
-  <img src="https://github.com/ameyarsalvi/2025_ICRA_HuskyIMM/blob/main/Weights.jpg" width="45%" />
+  <img src="Weights.jpg" width="45%" />
 </p>
 
 ### YouTube video illustration : [YouTube Link](https://www.youtube.com/results?search_query=online+identification+of+skidding+modes)
